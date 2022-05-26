@@ -1,6 +1,6 @@
 # flutter_weather_app_sample
 
-A new Flutter project.
+A new Flutter project (Reference).
 
 ## Getting Started
 
